@@ -9,7 +9,7 @@
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Bahar's+Library)>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Bahar's+Library)
 
 
 
