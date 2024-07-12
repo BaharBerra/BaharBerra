@@ -36,7 +36,7 @@
 - 👯 I’m looking to collaborate on projects related to database design, smart home technology, web development, mobile apps, and artificial intelligence. 
 - 🤔 I’m looking for help with AI technology. 
 - 💬 Ask me about database design, smart home technology, web development, mobile apps, or anything related to SQL. 
-- 📫 How to reach me: You can reach me via email at berrauyr@gmail.com or connect with me on LinkedIn  <a href=https://www.linkedin.com/in/www.linkedin.com/in/bahar-berra-uyar-727812234/>here</a> 
+- 📫 How to reach me: You can reach me via email at baharberrauyr@gmail.com or connect with me on LinkedIn  <a href=https://www.linkedin.com/in/bahar-berra-uyar>here</a> 
 
 
 
