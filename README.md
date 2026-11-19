@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+<p align="center">
 </p>
 
 
@@ -50,4 +50,4 @@
 
 
 
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+
