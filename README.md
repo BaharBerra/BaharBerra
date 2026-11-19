@@ -32,7 +32,7 @@
 
  <br>
 
-- 🔭 I’m currently working on Database Design and Development, Smart Home Connection and Data
+- 🔭 I’m currently working on Database Design and Development, Smart Home Connection and Data Projects
 - 🌱 I’m currently learning Mobile Technology and AI Tech 
 - 👯 I’m looking to collaborate on projects related to database design, smart home technology, web development, mobile apps, and artificial intelligence. 
 - 🤔 I’m looking for help with AI technology. 
