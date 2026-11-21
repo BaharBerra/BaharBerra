@@ -97,9 +97,7 @@ berra = {
 
 ## 🧰 stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,cs,cpp,react,nextjs,dotnet,unity,docker,git,github,vscode,idea,jira,trello,slack&perline=9&theme=dark" alt="Python, Java, JavaScript, C#, C++, React, Next.js, .NET, Unity, Docker, Git, GitHub, VS Code, IntelliJ, Jira, Trello, Slack" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,js,cs,cpp,fastapi,react,nextjs,dotnet,unity,docker,redis,git,github,vscode,idea&perline=8&theme=dark" alt="Python, Java, JavaScript, C#, C++, FastAPI, React, Next.js, .NET, Unity, Docker, Redis, Git, GitHub, VS Code, IntelliJ" /> </p> <p align="center"
 
 <p align="center"><sub>also &nbsp;<code>Pandas</code> <code>Scikit-learn</code> <code>SQL</code> <code>BigQuery</code> <code>Power BI</code> <code>Looker Studio</code> <code>dbt</code> <code>Fivetran</code> <code>Hugging Face</code> <code>OpenAI</code> <code>Zapier</code> <code>Jupyter</code> <code>Google Colab</code> <code>Pipedrive</code></sub></p>
 
