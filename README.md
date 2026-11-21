@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/BaharBerra"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:89CFF0&height=220&section=header&text=Bahar%20Berra%20Uyar&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20AI&descSize=24&descColor=FFFFFF&descAlignY=64" width="100%" alt="Bahar Berra Uyar, Data Engineer and AI" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=89CFF0&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+software+engineer.;%3E+raw+data+to+dashboards.;%3E+news+meets+markets.;%3E+now%3A+data+scientist+%26+ai+trainee." width="100%" alt="Software engineer. Raw data to facts. News meets markets." />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=89CFF0&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+software+engineer.;%3E+raw+data+to+dashboards.;%3E+news+meets+markets.;" width="100%" alt="Software engineer. Raw data to facts. News meets markets." />
 </p>
 
 <p align="center">
