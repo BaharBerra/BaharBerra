@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/BaharBerra"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:89CFF0&height=220&section=header&text=Bahar%20Berra%20Uyar&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20AI&descSize=24&descColor=FFFFFF&descAlignY=64" width="100%" alt="Bahar Berra Uyar, Data Engineer and AI" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=89CFF0&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+software+engineer.;%3E+raw+data+to+facts.;%3E+news+meets+markets.;%3E+now%3A+data+scientist+%26+ai+trainee." width="100%" alt="Software engineer. Raw data to dashboards. News meets markets." />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=89CFF0&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+software+engineer.;%3E+raw+data+to+dashboards.;%3E+news+meets+markets.;%3E+now%3A+data+scientist+%26+ai+trainee." width="100%" alt="Software engineer. Raw data to dashboards. News meets markets." />
 </p>
 
 <p align="center">
@@ -97,9 +97,11 @@ berra = {
 
 ## 🧰 stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,js,cs,cpp,fastapi,react,nextjs,dotnet,unity,docker,redis,git,github,vscode,idea&perline=8&theme=dark" alt="Python, Java, JavaScript, C#, C++, FastAPI, React, Next.js, .NET, Unity, Docker, Redis, Git, GitHub, VS Code, IntelliJ" /> </p> <p align="center"
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,cs,cpp,fastapi,react,nextjs,dotnet,unity,docker,redis,git,github,vscode,idea&perline=8&theme=dark" alt="Python, Java, JavaScript, C#, C++, FastAPI, React, Next.js, .NET, Unity, Docker, Redis, Git, GitHub, VS Code, IntelliJ" />
+</p>
 
-<p align="center"><sub>also &nbsp;<code>Pandas</code> <code>Scikit-learn</code> <code>SQL</code> <code>BigQuery</code> <code>Power BI</code> <code>Looker Studio</code> <code>dbt</code> <code>Fivetran</code> <code>Hugging Face</code> <code>OpenAI</code> <code>Zapier</code> <code>Jupyter</code> <code>Google Colab</code> <code>Pipedrive</code></sub></p>
+<p align="center"><sub>also &nbsp;<code>Pandas</code> <code>Scikit-learn</code> <code>SQL</code> <code>MS SQL Server</code> <code>BigQuery</code> <code>Power BI</code> <code>Looker Studio</code> <code>Excel</code> <code>Google Sheets</code> <code>dbt</code> <code>Fivetran</code> <code>Hugging Face</code> <code>OpenAI</code> <code>Zapier</code> <code>Jupyter</code> <code>Google Colab</code> <code>Anaconda</code> <code>Pipedrive</code> <code>Jira</code> <code>Trello</code> <code>Slack</code> <code>MS Teams</code></sub></p>
 
 <br />
 
